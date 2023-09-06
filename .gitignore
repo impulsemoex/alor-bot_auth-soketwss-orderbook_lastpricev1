@@ -1,0 +1,13 @@
+html/
+node_modules/
+venv/
+__pycache__/
+
+
+*.png
+*.pem
+
+.env
+rufigi.json
+package-lock.json
+

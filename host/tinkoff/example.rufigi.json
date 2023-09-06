@@ -1,0 +1,12 @@
+[
+    {
+       "Name": "Детский Мир",
+       "ticker": "DSKY",
+       "figi": "BBG000BN56Q9",
+       "class_code": "TQBR",
+       "isin": "RU000A0JSQ90",
+       "lot": 10,
+       "currency": "rub",
+       "country": "Российская Федерация"
+    }
+]
